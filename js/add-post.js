@@ -1,4 +1,4 @@
-// ===== Global Variables =====
+
 let users = [];
 
 async function fetchUsers() {
@@ -107,3 +107,4 @@ async function init() {
 }
 
 document.addEventListener("DOMContentLoaded", init);
+
